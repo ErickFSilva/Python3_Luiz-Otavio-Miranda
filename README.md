@@ -1,4 +1,4 @@
-# Python3_Luiz-Otavio-Miranda
+# Python3
 Curso de Python - Luiz Otávio Miranda
 
 ### Descrição do curso, pelo Otávio:
