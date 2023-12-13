@@ -1,8 +1,13 @@
-# Docstring não é um comentário:
+
 """
-Docstring é interpretado pelo python
+DocString (Utilizado para comentários de várias linhas, embora não seja).
+
+Isto não é comentário, o python não pula esta linha de código.
+Embora os desenvolvedores costumam utiliza-lo como comentários multilinhas.
 """
 
 '''
-Pode ser usado para escrever anotações
+O DocString também pode ser utilizado com "aspas simples".
 '''
+
+# Os comentários em python são utilizados dessa forma.

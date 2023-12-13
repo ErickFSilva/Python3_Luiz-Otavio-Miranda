@@ -1,8 +1,11 @@
-# A função é utilizda para imprimir em tela. E ela recebe um ou mais argumentos separados por 'vírgula';
+# A função print é utilizada para exibir sua saída em tela.
+# Ela recebe os argumentos.
 
-# Argumentos não nomeados;
-# sep: informa o tipo de separador;
-# end: retira a configuração padrão e informa o que aparecerá após a último valor;
-print(12, 34, 1011, sep="-", end='##')
-print(56, 78, sep='_')
-print(9, 10, sep=',')
+# Argumentos não nomeados da funçao print:
+print(12,34,1011)
+print(56,78)
+print()
+
+# Argumentos nomeados da função print:
+print(12,34,90, sep=", ")
+print(56,78, sep='-')
