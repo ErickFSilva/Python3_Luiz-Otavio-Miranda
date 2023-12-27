@@ -25,7 +25,7 @@
 #     "explorer.compactFolders": false,
 #     "code-runner.runInTerminal": true,
 #     "code-runner.executorMap": {
-#         "javascript": "node",
+#         "javascript": "cls ; node",
 #         "python": "cls ; python -u"
 #     },
 #     "code-runner.ignoreSelection": true,
